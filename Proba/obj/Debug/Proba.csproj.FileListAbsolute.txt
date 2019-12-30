@@ -1,0 +1,11 @@
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\obj\Debug\Proba.csprojAssemblyReference.cache
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\obj\Debug\Proba.Client.resources
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.cache
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\bin\Debug\Proba.exe.config
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\bin\Debug\Proba.exe
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\bin\Debug\Proba.pdb
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\bin\Debug\SimpleTCP.dll
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\obj\Debug\Proba.csproj.CopyComplete
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\obj\Debug\Proba.exe
+C:\Users\krzysztof.wardziak\source\repos\Proba\Proba\obj\Debug\Proba.pdb

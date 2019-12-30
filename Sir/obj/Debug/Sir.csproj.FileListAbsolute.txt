@@ -1,0 +1,10 @@
+C:\Users\krzysztof.wardziak\source\repos\Proba\Sir\bin\Debug\Sir.exe.config
+C:\Users\krzysztof.wardziak\source\repos\Proba\Sir\bin\Debug\Sir.exe
+C:\Users\krzysztof.wardziak\source\repos\Proba\Sir\bin\Debug\Sir.pdb
+C:\Users\krzysztof.wardziak\source\repos\Proba\Sir\bin\Debug\SimpleTCP.dll
+C:\Users\krzysztof.wardziak\source\repos\Proba\Sir\obj\Debug\Sir.Server.resources
+C:\Users\krzysztof.wardziak\source\repos\Proba\Sir\obj\Debug\Sir.Properties.Resources.resources
+C:\Users\krzysztof.wardziak\source\repos\Proba\Sir\obj\Debug\Sir.csproj.GenerateResource.cache
+C:\Users\krzysztof.wardziak\source\repos\Proba\Sir\obj\Debug\Sir.csproj.CopyComplete
+C:\Users\krzysztof.wardziak\source\repos\Proba\Sir\obj\Debug\Sir.exe
+C:\Users\krzysztof.wardziak\source\repos\Proba\Sir\obj\Debug\Sir.pdb
